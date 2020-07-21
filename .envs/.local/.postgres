@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=messenger
+POSTGRES_USER=TqbAIXRajLWcqONzvGjQScYFNmvwcZFC
+POSTGRES_PASSWORD=Bn2qGkNehJnLKbj7TDDd4rwMNQTNjyXvsRWBLjCsijQi49Qr2Vbfasl9aO84qbch
